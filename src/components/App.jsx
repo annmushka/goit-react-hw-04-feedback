@@ -48,8 +48,6 @@ export const App = () => {
     }
   };
 
-  // const [ good, neutral, bad ] = this.state;
-
   const total = countTotalFeedback();
 
   return (
